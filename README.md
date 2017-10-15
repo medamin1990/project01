@@ -1,2 +1,2 @@
 # project01
-program to evaluate buildings
+program to evaluate buildings for design and architectural purposes.
